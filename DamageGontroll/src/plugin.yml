@@ -1,0 +1,13 @@
+name: DamageGontroll
+main: com.goodernest64.DamageGontroll.Main
+api-version: 1.8
+version: alpha-1.0.0
+author: GoodErnest64
+description: A simple plugin that lets you damage and heal players by a custom amount !
+commands:
+  dmg:
+    description: Damages players by a custom amount !
+    usage: /<command> <amount> [player]
+  hheal:
+    description: Heals players by a custom amount !
+    usage: /<command> <amount> [player]
